@@ -6,4 +6,4 @@ criar o diretorio. no meu caso foi c:\lcs\gitrep1   (raiz do repositorio no git)
 clicar em 'code' e copiar o codigo (vincular o rpo).isso vincula a minha pasta do c: com a nuvem do git
 no cmd digitar: git remote add origin https://github.com/qlsantana76/minicursogit.git
 no cmd: git add .
-no cmd: git commit -m 'primeira versao'
+no cmd: git commit -m 'primeira versao'
