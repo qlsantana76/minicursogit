@@ -1,0 +1,7 @@
+** configurando o gir para trabalho local com minha conta.
+git config --global user.email lucianon.santana@urbano.com.br
+git config --global user.name qlsantana76
+criar o diretorio. no meu caso foi c:\lcs\gitrep1   (raiz do repositorio no git)
+-fazer login no git e criar repositorio
+clicar em 'code' e copiar o codigo (vincular o rpo).isso vincula a minha pasta do c: com a nuvem do git
+no cmd digitar: git remote add origin https://github.com/qlsantana76/minicursogit.git
