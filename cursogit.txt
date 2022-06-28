@@ -4,6 +4,11 @@ git config --global user.name qlsantana76
 criar o diretorio. no meu caso foi c:\lcs\gitrep1   (raiz do repositorio no git)
 -fazer login no git e criar repositorio
 clicar em 'code' e copiar o codigo (vincular o rpo).isso vincula a minha pasta do c: com a nuvem do git
-no cmd digitar: git remote add origin https://github.com/qlsantana76/minicursogit.git
+no cmd digitar: git remote add https://github.com/qlsantana76/minicursogit.git
 no cmd: git add .
-no cmd: git commit -m 'primeira versao'
+no cmd: git commit -m "primeira versao"
+no cmd: git push -f origin master (so pra primeira vez) depois usar
+        git push origin master 
+
+
+
